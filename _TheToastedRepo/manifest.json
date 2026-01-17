@@ -1,0 +1,9 @@
+{
+  "Name": "The Toasted Repo",
+  "Author": "MysticBlaze",
+  "Version": "1.0.0",
+  "Description": "The mod folder that me and my partner have for Stardew Valley.",
+  "UniqueID": "MysticBlaze.TheToastedRepo",
+  "UpdateKeys": [ "Github:sfs-quentin/TheToastedRepo" ],
+  "DllEntry": "ToastedRepo.dll"
+}
